@@ -1,1 +1,1 @@
-web: gunicorn questionnaire_form.wsgi
+web: gunicorn my_project.wsgi
